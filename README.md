@@ -16,7 +16,7 @@
 
 💬 Ask me about **C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **A swarm of 20,000 bees followed a car for two days as their queen was trapped inside.**
 
  </div>
  
