@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Prerak8880.Prerak8880" />
 
 <h1 align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=500&pause=999&color=9E5C96&multiline=true&random=false&width=435&lines=)=Hi+There!+👋;+I'm+Prerak;" />
+    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=)=Hi+There!+👋;+I'm+Prerak;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
