@@ -36,8 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino" />
-    <img src="https://skillicons.dev/icons?i=arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino" /><br>
 </div>
 
 <br/>
@@ -46,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Prerak8880/Prerak8880/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
