@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **VLSI**
 
-💬 Ask me about **C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
