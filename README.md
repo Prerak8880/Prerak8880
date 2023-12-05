@@ -36,8 +36,12 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino," />
-     <img src="https://i.redd.it/x6gnx2y78vy51.png" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino" />
+    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ak5u4-du7li-001.ico" />
+    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ay4bx-v3fps-001.ico" />
+    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/arhly-gvqg3-001.ico" />
+    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ab42i-m91ek-001.ico" />
+    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/as2tb-meg44-001.ico" /><br>
 </div>
 
 <br/>
