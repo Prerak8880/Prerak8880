@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **VLSI**
 
-💬 Ask me about **C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
+💬 Ask me about **C/C++,Embedded C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
 
 ⚡ Fun fact **A swarm of 20,000 bees followed a car for two days as their queen was trapped inside.**
 
