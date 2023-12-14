@@ -45,14 +45,18 @@
 
 <br/>
 
-<h2 align="center">⚡My Stats ⚡</h2>
+<details>
+<summary>⚡ My Stats ⚡</summary>
 <br>
-<a href="https://github.com/Prerak8880">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Prerak8880&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prerak8880&theme=nord_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prerak8880&theme=nord_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prerak8880&theme=nord_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prerak8880&theme=nord_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prerak8880&theme=nord_dark&utcOffset=8)
 <br/><br/>
 
-<hr/>
+</details>
 
 
 
