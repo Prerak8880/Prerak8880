@@ -16,7 +16,7 @@
  
  🔭 I’m a III Year Electronics and Computer Engineering **Student**
  
- 🌱 I’m currently learning **VLSI**
+ 🌱 I’m currently learning **Computer Vision**
 
 💬 Ask me about **C/C++,Embedded C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
 
