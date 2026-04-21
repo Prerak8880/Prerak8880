@@ -2,7 +2,7 @@
 
 <h1 align="center">
    <a href="https://github.com/Prerak8880">
-       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=FF671F&random=false&width=500&height=50&lines=¡Hola!;" alt="Typing SVG" /><br/>
+       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=FF671F&random=false&width=500&height=50&lines=¡Hello!;" alt="Typing SVG" /><br/>
        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=FFFFFF&random=false&width=500&height=52&lines=This+is+Prerak;" alt="Typing SVG" /><br/>
        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=046A38&random=false&width=500&height=60&lines=Glad+to+see+you!😊" alt="Typing SVG" /><br/>
 </a>
@@ -14,11 +14,11 @@
 
 <div align="center">
  
- 🔭 I’m a III Year Electronics and Computer Engineering **Student**
+ 🔭 I’m a full time Hardware Designer cum IoT Engineer at **Kuppismart Solutions Pvt Ltd**
  
- 🌱 I’m currently learning **Computer Vision**
+ 🌱 I’m working and currently learning **PCB Design** using EasyEDA and KiCAD.
 
-💬 Ask me about **C/C++,Embedded C/C++, Python, KiCAD, Vivado... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
+💬 Ask me about **Embedded Systems, EasyEDA, KiCAD, PCB Design, AWS IoT Core, MQTT... or anything [here](https://github.com/Prerak8880/Prerak8880/issues)**
 
 ⚡ Fun fact **A swarm of 20,000 bees followed a car for two days as their queen was trapped inside.**
 
