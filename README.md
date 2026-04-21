@@ -4,10 +4,9 @@
 
 <h1 align="center">
    <a href="https://github.com/Prerak8880">
-       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=FF671F&random=false&width=500&height=50&lines=¡Hello!;" alt="Typing SVG Hello" /><br/>
-       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=FFFFFF&random=false&width=500&height=52&lines=This+is+Prerak;" alt="Typing SVG Name" /><br/>
-       <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=046A38&random=false&width=500&height=60&lines=Glad+to+see+you!😊" alt="Typing SVG Welcome" /><br/>
-</a>
+       👋 Hello! I'm Prerak<br/>
+       Glad to see you! 😊
+   </a>
 </h1>
 
 <h3 align="center">A passionate PCB Designer and Embedded Developer</h3>
